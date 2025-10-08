@@ -1,4 +1,4 @@
-# 💻 Magazine Layout
+# Magazine Layout
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,17 +16,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-magazine-layout&left_text=repo%20views)
 
-## ℹ️ A Simple Magazine Layout Page
+## A Simple Magazine Layout Page
 
 ![Screenshot of the project](./screenshot.png)
 
 This project features a stylized digital magazine layout designed with semantic HTML and modern CSS techniques. The layout mimics a real magazine cover, complete with a title, featured article, smaller stories, and a prominent image section.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The magazine layout project uses CSS Grid to structure content into a professional three-column, two-row format. Each section is styled with visual hierarchy, text-shadow effects, and a blended background gradient to evoke a premium editorial feel.
 
@@ -34,7 +34,7 @@ The design adapts well to various screen sizes while preserving the layout integ
 
 ---
 
-## ✨ Features
+## Features
 
 - Full CSS Grid layout with defined grid areas
 - Semantic HTML5 elements for proper document structure
@@ -46,7 +46,7 @@ The design adapts well to various screen sizes while preserving the layout integ
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to implement complex grid layouts using `grid-template-areas`
 - Managing consistent visual rhythm with `clamp()` font sizing
@@ -57,7 +57,7 @@ The design adapts well to various screen sizes while preserving the layout integ
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -67,23 +67,23 @@ The design adapts well to various screen sizes while preserving the layout integ
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://magazine-layout-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://magazine-layout-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
